@@ -1,0 +1,6 @@
+{
+  "name": "أغنية الملح والظلال - The Song of Salt and Shadow",
+  "description": "رواية الفانتازيا والأمواج الخيالية مترجمة بالكامل إلى اللغة العربية بأسلوب أدبي رفيع مع أدوات قراءة تفاعلية وخريطة العالم ودليل طاقم السفينة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
